@@ -5,3 +5,5 @@
 ## Favorite Food: Ramen ##
 
 ## Hobby: Draw ##
+
+## Color: Blue ##
